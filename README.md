@@ -19,9 +19,10 @@
 
 ### How to Initialize/Run Your Application
 
-- Install requirements.txt
+- Enter CLI command `docker compose build`
 - Enter CLI command `docker compose up`
-- View content in local port indicated by terminal
+- View content in local port indicated in terminal
+- path to booklist is /api/v1/books/
 
 ### How to Use Your Library
 
